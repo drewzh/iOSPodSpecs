@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   # s.platform     = :ios
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "https://github.com/LivePersonInc/iOSFrameworks", :tag => "2.7.0.20.1078" }
+  s.source       = { :git => "https://github.com/LivePersonInc/iOSFrameworks", :commit => "899c4dfe67dda377f95c2cebb4f86bf286a44dca" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
